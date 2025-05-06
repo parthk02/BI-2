@@ -31,9 +31,9 @@ This Power BI project simulates a real-world Business Intelligence scenario for 
 ---
 
 ## 📷 Screenshots
-[Dashboard ](./01.JPG)
-[Tooltip ](./Tooltip1.JPG)
-[Tooltip ](./tt2.JPG)
-[Tooltip ](./tt3.JPG)
+[Dashboard ](/01.JPG)
+[Tooltip ](/Tooltip1.JPG)
+[Tooltip ](/tt2.JPG)
+[Tooltip ](/tt3.JPG)
 
 
